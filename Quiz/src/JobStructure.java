@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
+//10:15 Feb. 3 Hopefully you're reading this on Wednesday and I'm sleeping at home during the snowday. 
 public class JobStructure
 	{
 		static ArrayList<Job> JobInfo = new ArrayList<Job>();
